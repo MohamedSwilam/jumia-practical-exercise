@@ -17,7 +17,7 @@
 
 ## Installation
 
-### 1. Create and setup .env file
+### 1. Create .env file from .env.example and setup database information
 
 ### 2. Install Composer
 ```bash
